@@ -1,0 +1,13 @@
+# ignore build files
+**/target/*
+
+# ignore IntelliJ files
+**/.idea/*
+
+# ignore Visual Studio Code files
+**/.vscode/*
+**/.metals/*
+**/.bloop/*
+**/metals.sbt
+**/project/project/**
+**/.bsp/*
